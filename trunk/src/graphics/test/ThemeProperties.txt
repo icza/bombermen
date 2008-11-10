@@ -1,0 +1,29 @@
+# This file holds the properties of a Bombermen graphical theme.
+# The file has a specific format, do not remove or change lines unless you know what you're doing!
+#
+#
+# Properties of the title animation (width height fps):
+176 125 3
+#
+# Properties of the waiting animation (width height fps):
+342 159 3
+#
+# Properties of the wall images (size):
+32
+#
+# Properties of the item images (size):
+32
+#
+# Properties of the bomberman phase images (width height [then all the phases counts])
+# Phases in order: STANDING, STANDING_WITH_BOMB, WALKING, WALKING_WITH_BOMB, KICKING, KICKING_WITH_BOMB, PUNCHING, PICKING_UP, DYING
+64 100 1 1 8 8 4 4 4 4 6
+#
+# Properties of the bomb phase images (size [then all the phases counts])
+# Phases in order: NORMAL, JELLY, TRIGGERED
+64 8 8 1
+#
+# Properties of the fire phase images (size phases)
+50 5
+#
+# Properties of the burning phase images (size phases)
+50 6
