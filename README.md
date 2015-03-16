@@ -12,7 +12,7 @@
 
 ![http://lh4.ggpht.com/_jDMClHrENz8/SRK2lQ5IBwI/AAAAAAAAGkI/Mu21GlyWBKg/s800/Bombermen%20game%20area%20screenshot.png.jpg](http://lh4.ggpht.com/_jDMClHrENz8/SRK2lQ5IBwI/AAAAAAAAGkI/Mu21GlyWBKg/s800/Bombermen%20game%20area%20screenshot.png.jpg)
 
-[More screenshots...](Screenshots.md)
+[More screenshots...](../wiki/Screenshots.md)
 
 ## Introduction ##
 Bombermen is a computer arcade game based on the classic Dynablaster and Atomic bomberman specified to be highly configurable and playable, to be one of the best network bomberman games. Bombermen implies/implements all the features of the mentioned classical games, highly supports network games and has some new concepts of gameplay. Changing settings/turning off these features gives the possibility of operating exactly like the ancestors.
